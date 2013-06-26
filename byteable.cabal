@@ -22,4 +22,4 @@ Library
 
 source-repository head
   type: git
-  location: git://github.com/vincenthz/byteable
+  location: git://github.com/vincenthz/hs-byteable
