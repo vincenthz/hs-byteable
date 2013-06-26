@@ -1,7 +1,14 @@
 Name:                byteable
 Version:             0.1.0
 Synopsis:            Type class for sequence of bytes
-Description:         abstract class to manipulate sequence of bytes
+Description:
+    Abstract class to manipulate sequence of bytes
+    .
+    The use case of this class is abstracting manipulation of
+    types that are just wrapping a bytestring with stronger and
+    more meaniful name.
+    .
+    Usual definition of those types are of the form: newtype MyType = MyType ByteString
 License:             BSD3
 License-file:        LICENSE
 Copyright:           Vincent Hanquez <vincent@snarc.org>
