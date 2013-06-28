@@ -1,5 +1,5 @@
 Name:                byteable
-Version:             0.1.0
+Version:             0.1.1
 Synopsis:            Type class for sequence of bytes
 Description:
     Abstract class to manipulate sequence of bytes
